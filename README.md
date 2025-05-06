@@ -24,18 +24,12 @@ Un ejemplo concreto que podés correr y modificar a gusto.
 Clonás el repo:
 
 ```
-bash
-Copy
-Edit
 git clone https://github.com/devenzo35/spark_demo.git
 cd spark_demo
 ```
 Levantás Jupyter:
 
 ```
-bash
-Copy
-Edit
 jupyter notebook
 ```
 Abrís spark_demo.ipynb y vas ejecutando las celdas paso a paso.
